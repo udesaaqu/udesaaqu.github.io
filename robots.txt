@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://udesaaqu.github.io/MdN/sitemap_index.txt
+Sitemap: https://udesaaqu.github.io/OIa/sitemap_index.txt
+Sitemap: https://udesaaqu.github.io/UcW/sitemap_index.txt
+Sitemap: https://udesaaqu.github.io/emX/sitemap_index.txt
